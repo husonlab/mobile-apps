@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* the notices page holds a long preformatted text: wrap it instead of scrolling sideways */
+pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
