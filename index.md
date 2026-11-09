@@ -34,7 +34,7 @@ figure, lay them out and export them in Newick format. The app reports the mathe
 network that is being drawn.
 
 [Details](phylosketch) ·
-[Paper](https://doi.org/10.1101/2025.04.01.646633) (Huson, Sketch, capture and layout phylogenies, 2025) ·
+[Paper](https://doi.org/10.1371/journal.pcbi.1013805) (Huson, PLOS Computational Biology 2025) ·
 [Desktop program](https://github.com/husonlab/phylosketch2) ·
 App Store: coming soon
 

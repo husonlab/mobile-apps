@@ -10,8 +10,8 @@ tree-based, and so on) and reports its properties. A photo of a printed tree can
 an editable network, including the recognition of its labels. Networks can be imported from and exported to
 Newick format and laid out automatically.
 
-**Paper:** Daniel H. Huson. Sketch, capture and layout phylogenies. *PLoS Computational Biology*, to appear;
-preprint [doi:10.1101/2025.04.01.646633](https://doi.org/10.1101/2025.04.01.646633).
+**Paper:** Daniel H. Huson. Sketch, capture and layout phylogenies. *PLOS Computational Biology* 21(12): e1013805
+(2025). [doi:10.1371/journal.pcbi.1013805](https://doi.org/10.1371/journal.pcbi.1013805)
 
 **Desktop program:** [github.com/husonlab/phylosketch2](https://github.com/husonlab/phylosketch2) (GPL 3).
 
