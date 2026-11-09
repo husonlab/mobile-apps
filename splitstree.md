@@ -22,7 +22,11 @@ phylogenetic trees and networks. *Nature Methods* (2024).
 installers for macOS, Windows and Linux at
 [software-ab.cs.uni-tuebingen.de](https://software-ab.cs.uni-tuebingen.de/download/splitstree6/welcome.html).
 
-**App Store:** coming soon.
+**Beta testing:** join through TestFlight at
+[testflight.apple.com/join/MGiPWSuc](https://testflight.apple.com/join/MGiPWSuc), or scan the code below with
+your iPhone or iPad. The App Store release follows.
+
+<img src="assets/qr/splitstree.png" width="160" alt="QR code for the SplitsTree beta">
 
 ## Working with files
 
