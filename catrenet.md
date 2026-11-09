@@ -15,7 +15,11 @@ catalytic reaction networks. *Bioinformatics* 40(8), btae515 (2024).
 
 **Desktop program:** [github.com/husonlab/catrenet](https://github.com/husonlab/catrenet) (GPL 3).
 
-**App Store:** coming soon.
+**Beta testing:** join through TestFlight at
+[testflight.apple.com/join/uzWuC2ju](https://testflight.apple.com/join/uzWuC2ju), or scan the code below with
+your iPhone or iPad. The App Store release follows.
+
+<img src="assets/qr/catrenet.png" width="160" alt="QR code for the CatReNet beta">
 
 ## Working with files
 

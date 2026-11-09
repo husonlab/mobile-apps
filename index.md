@@ -26,7 +26,7 @@ updates them automatically. Feedback is welcome through TestFlight's own feedbac
 |---|---|
 | SplitsTree App | [testflight.apple.com/join/MGiPWSuc](https://testflight.apple.com/join/MGiPWSuc) <br> <img src="assets/qr/splitstree.png" width="140" alt="QR code for the SplitsTree beta"> |
 | PhyloSketch App | [testflight.apple.com/join/aI8AMADo](https://testflight.apple.com/join/aI8AMADo) <br> <img src="assets/qr/phylosketch.png" width="140" alt="QR code for the PhyloSketch beta"> |
-| CatReNet App | coming soon |
+| CatReNet App | [testflight.apple.com/join/uzWuC2ju](https://testflight.apple.com/join/uzWuC2ju) <br> <img src="assets/qr/catrenet.png" width="140" alt="QR code for the CatReNet beta"> |
 | PhyloParallelograms App | [testflight.apple.com/join/MugknuQW](https://testflight.apple.com/join/MugknuQW) <br> <img src="assets/qr/phyloparallelograms.png" width="140" alt="QR code for the PhyloParallelograms beta"> |
 
 ---
@@ -63,6 +63,7 @@ RAFs, CAFs and pseudo-RAFs and other autocatalytic subsystems, and visualize and
 [Details](catrenet) ·
 [Paper](https://doi.org/10.1093/bioinformatics/btae515) (Huson, Xavier and Steel, Bioinformatics 2024) ·
 [Desktop program](https://github.com/husonlab/catrenet) ·
+[Beta on TestFlight](https://testflight.apple.com/join/uzWuC2ju) ·
 App Store: coming soon
 
 ## <img src="assets/icons/phyloparallelograms.png" width="48" alt="" style="vertical-align: middle"> PhyloParallelograms App
