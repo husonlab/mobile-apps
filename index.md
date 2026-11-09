@@ -27,7 +27,7 @@ updates them automatically. Feedback is welcome through TestFlight's own feedbac
 | SplitsTree App | [testflight.apple.com/join/MGiPWSuc](https://testflight.apple.com/join/MGiPWSuc) <br> <img src="assets/qr/splitstree.png" width="140" alt="QR code for the SplitsTree beta"> |
 | PhyloSketch App | [testflight.apple.com/join/aI8AMADo](https://testflight.apple.com/join/aI8AMADo) <br> <img src="assets/qr/phylosketch.png" width="140" alt="QR code for the PhyloSketch beta"> |
 | CatReNet App | coming soon |
-| PhyloParallelograms App | coming soon |
+| PhyloParallelograms App | [testflight.apple.com/join/MugknuQW](https://testflight.apple.com/join/MugknuQW) <br> <img src="assets/qr/phyloparallelograms.png" width="140" alt="QR code for the PhyloParallelograms beta"> |
 
 ---
 
@@ -74,6 +74,7 @@ immediately visible.
 [Details](phyloparallelograms) ·
 Paper: Huson, Cetinkaya and Zhang, manuscript in preparation ·
 [Desktop program](https://github.com/husonlab/phyloparallelograms) ·
+[Beta on TestFlight](https://testflight.apple.com/join/MugknuQW) ·
 App Store: coming soon
 
 ---

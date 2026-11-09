@@ -16,7 +16,11 @@ discordant trees. Manuscript in preparation.
 **Desktop program:** [github.com/husonlab/phyloparallelograms](https://github.com/husonlab/phyloparallelograms)
 (GPL 3).
 
-**App Store:** coming soon.
+**Beta testing:** join through TestFlight at
+[testflight.apple.com/join/MugknuQW](https://testflight.apple.com/join/MugknuQW), or scan the code below with
+your iPhone or iPad. The App Store release follows.
+
+<img src="assets/qr/phyloparallelograms.png" width="160" alt="QR code for the PhyloParallelograms beta">
 
 ## Working with files
 
