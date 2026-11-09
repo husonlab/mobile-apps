@@ -15,7 +15,11 @@ Newick format and laid out automatically.
 
 **Desktop program:** [github.com/husonlab/phylosketch2](https://github.com/husonlab/phylosketch2) (GPL 3).
 
-**App Store:** coming soon.
+**Beta testing:** join through TestFlight at
+[testflight.apple.com/join/aI8AMADo](https://testflight.apple.com/join/aI8AMADo), or scan the code below with
+your iPhone or iPad. The App Store release follows.
+
+<img src="assets/qr/phylosketch.png" width="160" alt="QR code for the PhyloSketch beta">
 
 ## Working with files
 

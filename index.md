@@ -25,7 +25,7 @@ updates them automatically. Feedback is welcome through TestFlight's own feedbac
 | App | Join the beta |
 |---|---|
 | SplitsTree App | [testflight.apple.com/join/MGiPWSuc](https://testflight.apple.com/join/MGiPWSuc) <br> <img src="assets/qr/splitstree.png" width="140" alt="QR code for the SplitsTree beta"> |
-| PhyloSketch App | coming soon |
+| PhyloSketch App | [testflight.apple.com/join/aI8AMADo](https://testflight.apple.com/join/aI8AMADo) <br> <img src="assets/qr/phylosketch.png" width="140" alt="QR code for the PhyloSketch beta"> |
 | CatReNet App | coming soon |
 | PhyloParallelograms App | coming soon |
 
@@ -52,6 +52,7 @@ network that is being drawn.
 [Details](phylosketch) ·
 [Paper](https://doi.org/10.1371/journal.pcbi.1013805) (Huson, PLOS Computational Biology 2025) ·
 [Desktop program](https://github.com/husonlab/phylosketch2) ·
+[Beta on TestFlight](https://testflight.apple.com/join/aI8AMADo) ·
 App Store: coming soon
 
 ## <img src="assets/icons/catrenet.png" width="48" alt="" style="vertical-align: middle"> CatReNet App
