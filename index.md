@@ -2,7 +2,7 @@
 title: husonlab apps
 ---
 
-# Phylogenetics on iPhone and iPad
+# Phylogenetics and networks on iPhone and iPad
 
 These apps are native iOS versions of open-source desktop programs for phylogenetics and biochemical network analysis
 developed by Daniel H. Huson and colleagues at the University of Tübingen. They are built with Java and JavaFX,
