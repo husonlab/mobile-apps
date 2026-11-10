@@ -18,9 +18,7 @@ The app is designed for the iPad and also runs on the iPhone.
 phylogenetic trees and networks. *Nature Methods* (2024).
 [doi:10.1038/s41592-024-02406-3](https://doi.org/10.1038/s41592-024-02406-3)
 
-**Desktop program:** [github.com/husonlab/splitstree6](https://github.com/husonlab/splitstree6) (GPL 3), with
-installers for macOS, Windows and Linux at
-[software-ab.cs.uni-tuebingen.de](https://software-ab.cs.uni-tuebingen.de/download/splitstree6/welcome.html).
+**Desktop program:** [github.com/husonlab/splitstree6](https://github.com/husonlab/splitstree6) (GPL 3).
 
 **Beta testing:** join through TestFlight at
 [testflight.apple.com/join/MGiPWSuc](https://testflight.apple.com/join/MGiPWSuc), or scan the code below with
