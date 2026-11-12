@@ -20,11 +20,14 @@ phylogenetic trees and networks. *Nature Methods* (2024).
 
 **Desktop program:** [github.com/husonlab/splitstree6](https://github.com/husonlab/splitstree6) (GPL 3).
 
-**Beta testing:** join through TestFlight at
-[testflight.apple.com/join/MGiPWSuc](https://testflight.apple.com/join/MGiPWSuc), or scan the code below with
-your iPhone or iPad. The App Store release follows.
+**App Store:** SplitsTree App is available on the App Store at
+[apps.apple.com/app/id6476155107](https://apps.apple.com/app/id6476155107), or scan the code below with your
+iPhone or iPad.
 
-<img src="assets/qr/splitstree.png" width="160" alt="QR code for the SplitsTree beta">
+<img src="assets/qr/splitstree-appstore.png" width="160" alt="QR code for SplitsTree App on the App Store">
+
+**Beta testing:** new versions are tested through TestFlight before they are released; to try them, join at
+[testflight.apple.com/join/MGiPWSuc](https://testflight.apple.com/join/MGiPWSuc).
 
 ## Working with files
 

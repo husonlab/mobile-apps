@@ -14,20 +14,20 @@ internet. See the [privacy policy](privacy) and the [support page](support).
 
 Android versions are planned.
 
-## Beta testing
+## Getting the apps
 
-The apps are being tested through Apple's TestFlight before their App Store release. To take part, install the
-free [TestFlight](https://apps.apple.com/app/testflight/id899247664) app on your iPhone or iPad, then open the
-link for the app you want to test, or scan its QR code with the camera. Builds expire after 90 days; TestFlight
-updates them automatically. Feedback is welcome through TestFlight's own feedback button or the
-[support page](support).
+SplitsTree App is available on the [App Store](https://apps.apple.com/app/id6476155107). The other apps are being
+tested through Apple's TestFlight before their App Store release. To take part, install the free
+[TestFlight](https://apps.apple.com/app/testflight/id899247664) app on your iPhone or iPad, then open the link for
+the app you want to test, or scan its QR code with the camera. Builds expire after 90 days; TestFlight updates
+them automatically. Feedback is welcome through TestFlight's own feedback button or the [support page](support).
 
-| App | Join the beta |
+| App | Get it |
 |---|---|
-| SplitsTree App | [testflight.apple.com/join/MGiPWSuc](https://testflight.apple.com/join/MGiPWSuc) <br> <img src="assets/qr/splitstree.png" width="140" alt="QR code for the SplitsTree beta"> |
-| PhyloSketch App | [testflight.apple.com/join/aI8AMADo](https://testflight.apple.com/join/aI8AMADo) <br> <img src="assets/qr/phylosketch.png" width="140" alt="QR code for the PhyloSketch beta"> |
-| CatReNet App | [testflight.apple.com/join/uzWuC2ju](https://testflight.apple.com/join/uzWuC2ju) <br> <img src="assets/qr/catrenet.png" width="140" alt="QR code for the CatReNet beta"> |
-| PhyloParallelograms App | [testflight.apple.com/join/MugknuQW](https://testflight.apple.com/join/MugknuQW) <br> <img src="assets/qr/phyloparallelograms.png" width="140" alt="QR code for the PhyloParallelograms beta"> |
+| SplitsTree App | App Store: [apps.apple.com/app/id6476155107](https://apps.apple.com/app/id6476155107) <br> <img src="assets/qr/splitstree-appstore.png" width="140" alt="QR code for SplitsTree App on the App Store"> |
+| PhyloSketch App | Beta: [testflight.apple.com/join/aI8AMADo](https://testflight.apple.com/join/aI8AMADo) <br> <img src="assets/qr/phylosketch.png" width="140" alt="QR code for the PhyloSketch beta"> |
+| CatReNet App | Beta: [testflight.apple.com/join/uzWuC2ju](https://testflight.apple.com/join/uzWuC2ju) <br> <img src="assets/qr/catrenet.png" width="140" alt="QR code for the CatReNet beta"> |
+| PhyloParallelograms App | Beta: [testflight.apple.com/join/MugknuQW](https://testflight.apple.com/join/MugknuQW) <br> <img src="assets/qr/phyloparallelograms.png" width="140" alt="QR code for the PhyloParallelograms beta"> |
 
 ---
 
@@ -40,8 +40,7 @@ split decomposition, consensus networks and the phylogenetic outline, and the sa
 [Details](splitstree) ·
 [Paper](https://doi.org/10.1038/s41592-024-02406-3) (Huson and Bryant, Nature Methods 2024) ·
 [Desktop program](https://github.com/husonlab/splitstree6) ·
-[Beta on TestFlight](https://testflight.apple.com/join/MGiPWSuc) ·
-App Store: coming soon
+[App Store](https://apps.apple.com/app/id6476155107)
 
 ## <img src="assets/icons/phylosketch.png" width="48" alt="" style="vertical-align: middle"> PhyloSketch App
 
