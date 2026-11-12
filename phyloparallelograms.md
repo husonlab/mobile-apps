@@ -11,7 +11,8 @@ format, can be rerooted and filtered, and the resulting figure can be exported a
 network as Newick.
 
 **Paper:** Daniel H. Huson, Banu Cetinkaya and Louxin Zhang. Phylogenetic parallelograms for visual comparison of
-discordant trees. Manuscript in preparation.
+discordant trees. Manuscript under review.
+[doi:10.64898/2026.09.18.752558](https://doi.org/10.64898/2026.09.18.752558)
 
 **Desktop program:** [github.com/husonlab/phyloparallelograms](https://github.com/husonlab/phyloparallelograms)
 (GPL 3).

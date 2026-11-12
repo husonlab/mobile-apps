@@ -72,7 +72,7 @@ which the trees are drawn in parallel in one coordinate space, so that shared st
 immediately visible.
 
 [Details](phyloparallelograms) ·
-[Paper](https://doi.org/10.64898/2026.09.18.752558) (Huson, Cetinkaya and Zhang, paper under review)·
+[Paper](https://doi.org/10.64898/2026.09.18.752558) (Huson, Cetinkaya and Zhang, paper under review) ·
 [Desktop program](https://github.com/husonlab/phyloparallelograms) ·
 [Beta on TestFlight](https://testflight.apple.com/join/MugknuQW) ·
 App Store: coming soon
